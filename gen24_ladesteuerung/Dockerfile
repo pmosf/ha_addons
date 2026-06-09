@@ -1,6 +1,3 @@
-ARG BUILD_FROM
-FROM ${BUILD_FROM}
-
 RUN \
 apk add --no-cache \
 bash git python3 py3-pip \
