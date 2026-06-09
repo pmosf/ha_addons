@@ -3,12 +3,6 @@ version: "0.1.4382-ha"
 slug: gen24_ladesteuerung
 description: "Wrapper-Add-on für https://github.com/wiggal/GEN24_Ladesteuerung/ (Fronius GEN24 prognosebasierte Akku-Ladesteuerung + WebUI)"
 url: https://github.com/roethigj/ha_addons/tree/main/gen24_ladesteuerung
-arch:
-  - aarch64
-  - amd64
-  - armhf
-  - armv7
-  - i386
 startup: application
 boot: auto
 advanced: true
